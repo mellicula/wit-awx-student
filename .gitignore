@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.coverage
+coverage.json
+.pytest_cache/
+.claude/
